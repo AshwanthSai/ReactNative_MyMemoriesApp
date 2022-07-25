@@ -19,6 +19,8 @@ https://drive.google.com/file/d/1JVD7TTtBwgbJSykcXFiQh1o_fVESRuiU/view?usp=shari
 
 
 -- Bugs --
+
+
 Registration breaks at times. 
 Data Manager Flushes Memory at times, loosing added memory.
 App tested on Windows OS, Pixel 5 API 30.
